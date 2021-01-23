@@ -24,3 +24,5 @@ Zwiększyć o kolejne else if (!strcmp(parmStr, "polecenie"))
     dalszy kod ktory ma zostać wykonany 
 }
 
+3.2.4
+Po zmianie z 1 na 0 nie możemy wpisywać nic w konsoli
